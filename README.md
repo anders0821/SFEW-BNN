@@ -1,7 +1,7 @@
 # SFEW-BNN
 Codes for paper "An Efficient Unconstrained Facial Expression Recognition Algorithm based on Stack Binarized Auto-encoders and Binarized Neural Networks"
 
-This code is based on https://github.com/MatthieuCourbariaux/BinaryNet
+This project is based on https://github.com/MatthieuCourbariaux/BinaryNet
 
 # Abstract of the Paper
 Although deep learning methods have achieved good performances in many pattern recognition tasks,
